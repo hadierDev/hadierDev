@@ -5,11 +5,9 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 
 ## I'm a Student, Developer, and Learner!!
 
-- 👀 I’m interested in New Tech, Frontend Development, Python
-- 🌱 I’m currently learning everything 
-- 📫 Trying to imporve myself everyday
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💞️ Fun Fact: Iron Man Fan😁
+🔭 I am a Developer in Matrix
+🌱 I’m currently learning everything 🤣
+👯 i am looking for new projrct every month
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
@@ -26,8 +24,7 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 ## 🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC_CvPIwiEn0_Dis86sqOCag"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<p>
   <a href="https://twitter.com/NeerajR76494084"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
