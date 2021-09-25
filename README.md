@@ -20,7 +20,7 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p>
-  <a href="https://twitter.com/NeerajR76494084"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-top.gg-1DA1F2?style=for-the-badge&logo=top.gg&logoColor=white"/></a>
+  <a href="https://top.gg/user/1265669966799765504"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-top.gg-1DA1F2?style=for-the-badge&logo=top.gg&logoColor=white"/></a>
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
   <a href="https://devfolio.co/@nnr0702"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEVFOLIO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=black"></a>
