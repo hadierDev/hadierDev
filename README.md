@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 i am looking for new projrct every month
 
-### Connect with me:
+## 🙋‍♂️ Connect with me
+
+<!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UC_CvPIwiEn0_Dis86sqOCag"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://twitter.com/NeerajR76494084"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -15,6 +17,7 @@
   <a href="https://devfolio.co/@nnr0702"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEVFOLIO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=black"></a>
   <a href="https://dev.to/neeraj2002"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
+
 
 <br />
 
