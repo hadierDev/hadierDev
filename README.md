@@ -41,9 +41,15 @@
 
 </details>
 
+</details>
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://github.com/hadierDev
+[jsplaylist]: https://github.com/hadierDev
+[cssplaylist]: https://github.com/hadierDev
+[reactplaylist]: https://github.com/hadierDev
