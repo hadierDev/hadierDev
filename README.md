@@ -32,7 +32,7 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/hadierDev/github-readme-streak-stats">
-    <img title="🔥 HaiderDev stats for your profile at git.io/streak-stats" alt="Neeraj2002's streak" src="https://github-readme-streak-stats.herokuapp.com?user=hadierDev&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 HaiderDev stats for your profile at git.io/streak-stats" alt="hadierDev's streak" src="https://github-readme-streak-stats.herokuapp.com?user=hadierDev&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
