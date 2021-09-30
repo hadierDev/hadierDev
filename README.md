@@ -13,8 +13,7 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 <p align="center">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/hadierDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://neeraj2002.github.io/">
-    <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
-</p>
+ </p>
 
 ## 🙋‍♂️ Connect with me
 
